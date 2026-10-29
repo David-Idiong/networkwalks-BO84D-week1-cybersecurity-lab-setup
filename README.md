@@ -1,5 +1,7 @@
 # networkwalks-BO84D-week1-cybersecurity-lab-setup
 
+<img width="940" height="205" alt="cyb " src="https://github.com/user-attachments/assets/0d64da55-8378-4397-9947-1e8dfe08d43a" />
+
 # 🔐 Cybersecurity Lab Environment Setup
 *Building an isolated virtual lab for penetration testing and ethical hacking practice*
 
@@ -38,7 +40,9 @@ It can be used for activities such as:
 - Security-tool experimentation
 ⚠️ Important: This laboratory must only be used for systems that you own or have explicit permission to test. Do not use the lab or its tools to attack unauthorized systems.
 
-🏗️ Lab Architecture
+## 🏗️ Lab Architecture
+
+Additional target machines can be added to the same virtual network in future projects.
 <img width="1875" height="839" alt="VirtualBox Network Lab Topology" src="https://github.com/user-attachments/assets/25704f2c-78d3-4153-96e4-a109f34a86bc" />
 Additional target machines can be added to the same virtual network in future projects.
 ## ⚙️ Lab Configuration
